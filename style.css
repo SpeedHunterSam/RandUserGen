@@ -33,13 +33,13 @@
   }
   
   .male {
-    border-color: steelblue;
-    background-color: steelblue;
+    border-color: greenyellow;
+    background-color: greenyellow;
   }
   
   .female {
-    border-color: pink;
-    background-color: pink;
+    border-color: orangered;
+    background-color: orangered;
     color: #333;
   }
   
@@ -47,7 +47,7 @@
     cursor: pointer;
     display: inline-block;
     background: #333;
-    color: white;
+    color: black;
     font-size: 18px;
     border: 0;
     padding: 1rem 1.5rem;
